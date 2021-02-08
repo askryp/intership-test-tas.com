@@ -1,0 +1,23 @@
+body {
+    width: 100%;
+    padding: 2%;
+}
+label{
+    font-weight: bolder;
+}
+.calendar-title{
+    font-size: 25px;
+}
+.pad-rght{
+    padding-right:20px;
+}
+.shadow-none:focus{
+    box-shadow: none;
+}
+.form{
+    width: 70%;
+    margin: 5% auto;
+    padding: 2%;
+    background-color: gainsboro;
+    border-radius: 5px;
+}
